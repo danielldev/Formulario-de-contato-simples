@@ -22,10 +22,17 @@ body {
     margin: 0 auto;
     font-family: "JetBrains Mono", monospace;
 }
+h1 {
+    color: white;
+}
 
 h2 {
     font-weight: 400;
     margin-bottom: 25px;
+    color: white;
+}
+p {
+    color: white;
 }
 
 img {
